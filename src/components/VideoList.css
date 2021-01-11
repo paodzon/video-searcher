@@ -1,4 +1,7 @@
 .videolist{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     margin-top: 0 !important;
     margin: 30px;
 }

@@ -1,6 +1,21 @@
 .videoitem{
-    border: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 10px;
     margin-top: 0 !important;
-    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+   
+}
+.videoitem-img{
+    object-fit: contain;
+    width: 120px !important;
+    height: 90px !important;
+}
+.videoitem-title{
+    font-size: 18px !important;
+}
+.videoitem-desc{
+    margin-left: 10px;
 }

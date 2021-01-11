@@ -1,0 +1,12 @@
+.videoDetails{
+    display: flex;
+    flex-direction: column;
+}
+
+.videobox{
+    width:100%;
+}
+
+.videoDetails-details{
+    border: 2px solid #000;
+}

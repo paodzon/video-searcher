@@ -1,0 +1,21 @@
+.App{
+    display: flex;
+    flex-direction: column;
+
+}
+.app-navbar{
+    width: 100%;
+}
+.app-videocon{
+    display: flex;
+    margin: 50px;
+}
+.app-video{
+   
+    flex:0.7;
+  
+}
+.app-list{
+   flex:0.3;
+  
+}
